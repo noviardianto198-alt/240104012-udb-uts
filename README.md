@@ -6,7 +6,7 @@
 
 ## Konfigurasi
 - Port Adminer : 8012
-- IP ZeroTier  : 192.168.192.63
+- IP ZeroTier  : 192.168.192.241
 - Network Docker : uts_internal_net
 
 ## Cara Menjalankan
