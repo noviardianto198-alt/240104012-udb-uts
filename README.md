@@ -10,5 +10,13 @@
 - Network Docker : uts_internal_net
 
 ## Cara Menjalankan
-```bash
-docker compose up -d
+```bash docker compose up -d```
+
+## ScreenShots
+![Docker ps](screenshots/dockerps.png)
+
+![Login Adminer](screenshots/adminer.png)
+
+![Login MySQL via Adminer](screenshots/adminer2.png)
+
+![Login PostgreSQL dari Adminer](screenshots/hasilpostgres.png)
